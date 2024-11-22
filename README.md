@@ -1,0 +1,1 @@
+This repository will serve as the main landing page for the "Sensing the Future: Bridging Sensors and Language Intelligence" reseach cluster. This will be a one stop directory to all codes, datasets, and resources needed and developed for all projects of BASH Lab that falls in this research cluster. 
